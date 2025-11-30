@@ -161,15 +161,15 @@ npm run dev
 
 ## **Live Site Link**
 
-- [https://sinthia-kitchen-shop.netlify.app/](https://sinthia-kitchen-shop.netlify.app/)
+- [https://mrirakib-sks-web-test.netlify.app/](https://mrirakib-sks-web-test.netlify.app/)
 
 ## **Client Repository**
 
-- [https://github.com/mrirakib04/sinthia-kitchen-web](https://github.com/mrirakib04/sinthia-kitchen-web)
+- [https://github.com/mrirakib04/sks-web](https://github.com/mrirakib04/sks-web)
 
 ## **Server Repository**
 
-- [https://github.com/mrirakib04/sinthia-kitchen-server](https://github.com/mrirakib04/sinthia-kitchen-server)
+- [https://github.com/mrirakib04/sks-server](https://github.com/mrirakib04/sks-server)
 
 ---
 
